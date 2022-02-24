@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhoneApp</string>
+    <string name="tab1">Recents</string>
+    <string name="tab2">Contacts</string>
+    <string name="Recents">Recents</string>
+    <string name="Contacts">Contacts</string>
+    <string name="MyPhoneApp">My Phone App</string>
+</resources>
